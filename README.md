@@ -1,7 +1,7 @@
 # mermaid-test
 
 ```mermaid
-flowchart LR
+flowchart TD
     A --> B
     B --> C
 ```
